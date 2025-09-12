@@ -68,6 +68,7 @@ Log:
     }
 ```
 
+
 **Hint**: For the date property, the toDateString method of the Date API can be used to achieve the expected output.
 
 
